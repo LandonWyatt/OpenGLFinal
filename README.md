@@ -1,3 +1,3 @@
-#### *Notice: This project was not originally developing while using Git.*
+#### *Notice: This project was not originally developed while using Git.*
 
 # OpenGLFinal
