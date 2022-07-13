@@ -1,0 +1,32 @@
+﻿  final.cpp
+C:\Workspace\OpenGL\Final\particles.h(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Workspace\OpenGL\Final\final.cpp(66,18): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(158,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(208,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Workspace\OpenGL\Final\final.cpp(301,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(309,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(398,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(406,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(513,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(711,48): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(725,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(736,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(742,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(748,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(754,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(760,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(767,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(823,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(824,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(828,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(829,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(830,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Workspace\OpenGL\Final\final.cpp(831,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ImportedModel.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+soil2-debug.lib(SOIL2.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(SOIL2.obj)' or at 'C:\Workspace\OpenGL\Final\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_DXT.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_DXT.obj)' or at 'C:\Workspace\OpenGL\Final\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(image_helper.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(image_helper.obj)' or at 'C:\Workspace\OpenGL\Final\Debug\soil2-debug.pdb'; linking object as if no debug info
+soil2-debug.lib(wfETC.obj) : warning LNK4099: PDB 'soil2-debug.pdb' was not found with 'soil2-debug.lib(wfETC.obj)' or at 'C:\Workspace\OpenGL\Final\Debug\soil2-debug.pdb'; linking object as if no debug info
+  Final.vcxproj -> C:\Workspace\OpenGL\Final\Debug\Final.exe
