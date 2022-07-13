@@ -4,4 +4,5 @@
 This was completed on May 27th 2021 as my final project for my Computer Animation class
  - It is written in C++ with OpenGL
 
+## Video Example of Program
 https://youtu.be/w3n-3KzvLTo
